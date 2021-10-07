@@ -1,1 +1,1 @@
-# W2-LED-with-photoresistor
+# W2-LED and Buzzer
